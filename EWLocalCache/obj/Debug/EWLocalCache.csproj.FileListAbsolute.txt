@@ -1,0 +1,14 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Debug\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Debug\EWLocalCache.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Debug\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Debug\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\obj\Debug\EWLocalCache.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\obj\Debug\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\obj\Debug\EWLocalCache.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Debug\EWLocalCache.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Debug\EWLocalCache.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Debug\Common.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Debug\Common.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Debug\EWLocalCache.csprojResolveAssemblyReference.cache
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Debug\EWLocalCache.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Debug\EWLocalCache.pdb

@@ -1,0 +1,63 @@
+C:\RegistryLib\trunk\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+C:\RegistryLib\trunk\Bin\RegistryLib.dll
+C:\RegistryLib\trunk\Bin\RegistryLib.pdb
+C:\RegistryLib\trunk\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+C:\RegistryLib\trunk\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+F:\branch\PixelCat\GUI\Bin\RegistryLib.dll
+F:\branch\PixelCat\GUI\Bin\RegistryLib.pdb
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\Bin\RegistryLib.dll
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\Bin\RegistryLib.pdb
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+F:\SneakyStreams\Programs\DownloaderLib\Bin\RegistryLib.dll
+F:\SneakyStreams\Programs\DownloaderLib\Bin\RegistryLib.pdb
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+K:\SneakyStreams\Programs\DownloaderLib\Bin\RegistryLib.dll
+K:\SneakyStreams\Programs\DownloaderLib\Bin\RegistryLib.pdb
+K:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+K:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+K:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+F:\Programs\DownloaderLib\Bin\RegistryLib.dll
+F:\Programs\DownloaderLib\Bin\RegistryLib.pdb
+F:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+F:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+F:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+E:\Programs\DownloaderLib\Bin\RegistryLib.dll
+E:\Programs\DownloaderLib\Bin\RegistryLib.pdb
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+I:\Programs\DownloaderLib\Bin\RegistryLib.dll
+I:\Programs\DownloaderLib\Bin\RegistryLib.pdb
+I:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+I:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+I:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+D:\Programs\DownloaderLib\Bin\RegistryLib.dll
+D:\Programs\DownloaderLib\Bin\RegistryLib.pdb
+D:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+D:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+D:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+H:\Programs\DownloaderLib\Bin\RegistryLib.dll
+H:\Programs\DownloaderLib\Bin\RegistryLib.pdb
+H:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+H:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+H:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+C:\FREEDOM\DownloaderLib\Bin\RegistryLib.dll
+C:\FREEDOM\DownloaderLib\Bin\RegistryLib.pdb
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\obj\Release\ResolveAssemblyReference.cache
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.dll
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\obj\Release\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\Bin\RegistryLib.dll
+C:\FREEDOM\FREELANCE\Bin\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\RegistryLib\obj\Release\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\RegistryLib\obj\Release\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\Bin\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\Bin\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\RegistryLib\obj\Release\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\RegistryLib\obj\Release\RegistryLib.pdb

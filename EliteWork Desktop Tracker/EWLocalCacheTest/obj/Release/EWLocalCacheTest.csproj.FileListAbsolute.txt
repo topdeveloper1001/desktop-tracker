@@ -1,0 +1,26 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCacheTest.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCacheTest.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWActivityCatcher.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\MouseKeyActivity.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWActivityCatcher.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCache.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCacheTest.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCacheTest.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWActivityCatcher.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\MouseKeyActivity.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWActivityCatcher.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCache.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.pdb

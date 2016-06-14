@@ -1,0 +1,12 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\MouseKeyActivityTest.exe.config
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\MouseKeyActivityTest.exe
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\MouseKeyActivityTest.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\EWActivityCatcher.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\MouseKeyActivity.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\EWActivityCatcher.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\MouseKeyActivity.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\bin\Debug\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\obj\Debug\MouseKeyActivityTest.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\obj\Debug\MouseKeyActivityTest.exe
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyActivityTest\obj\Debug\MouseKeyActivityTest.pdb

@@ -1,0 +1,9 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Common\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Common\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Common\obj\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Common\obj\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\Common\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\Common\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\Common\obj\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\Common\obj\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\Common\obj\Release\Common.csprojResolveAssemblyReference.cache

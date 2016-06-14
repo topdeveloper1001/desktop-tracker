@@ -1,0 +1,10 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace EliteWork_Desktop_Tracker.Helpers
+{
+    class LoginHelper
+    {
+    }
+}

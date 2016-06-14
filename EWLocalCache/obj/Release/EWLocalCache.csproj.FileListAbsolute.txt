@@ -1,0 +1,14 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Release\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Release\EWLocalCache.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\obj\Release\EWLocalCache.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\obj\Release\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWLocalCache\obj\Release\EWLocalCache.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Release\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Release\EWLocalCache.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Release\EWLocalCache.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Release\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Release\EWLocalCache.pdb

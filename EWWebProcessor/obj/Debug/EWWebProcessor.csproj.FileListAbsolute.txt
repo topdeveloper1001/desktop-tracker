@@ -1,0 +1,14 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWWebProcessor\bin\Debug\EWWebProcessor.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWWebProcessor\bin\Debug\EWWebProcessor.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWWebProcessor\bin\Debug\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWWebProcessor\bin\Debug\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWWebProcessor\obj\Debug\EWWebProcessor.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWWebProcessor\obj\Debug\EWWebProcessor.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWWebProcessor\obj\Debug\EWWebProcessor.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWWebProcessor\bin\Debug\EWWebProcessor.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWWebProcessor\bin\Debug\EWWebProcessor.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWWebProcessor\bin\Debug\Common.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWWebProcessor\bin\Debug\Common.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWWebProcessor\obj\Debug\EWWebProcessor.csprojResolveAssemblyReference.cache
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWWebProcessor\obj\Debug\EWWebProcessor.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWWebProcessor\obj\Debug\EWWebProcessor.pdb

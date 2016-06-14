@@ -1,0 +1,46 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\RegistryLib\RegistryLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\RegistryLib\RegistryLib\bin\Debug\RegistryLib.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\RegistryLib\RegistryLib\bin\Debug\RegistryLib.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\RegistryLib\RegistryLib\obj\Debug\RegistryLib.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+C:\RegistryLib\trunk\RegistryLib\RegistryLib\obj\Debug\RegistryLib.exe
+C:\RegistryLib\trunk\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+C:\MyProjects\PixelCat\branch\PixelCat\GUI\RegistryLib\RegistryLib\bin\Debug\RegistryLib.dll
+C:\MyProjects\PixelCat\branch\PixelCat\GUI\RegistryLib\RegistryLib\bin\Debug\RegistryLib.pdb
+C:\MyProjects\PixelCat\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\PixelCat\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Debug\RegistryLib.dll
+C:\MyProjects\PixelCat\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\bin\Debug\RegistryLib.dll
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\bin\Debug\RegistryLib.pdb
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Debug\ResolveAssemblyReference.cache
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Debug\RegistryLib.dll
+F:\branch\PixelCat\GUI\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.dll
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.pdb
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.dll
+C:\MyProjects\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.dll
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.pdb
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\ResolveAssemblyReference.cache
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.dll
+F:\SneakyStreams\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.dll
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.pdb
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.dll
+E:\Programs\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.dll
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\bin\Debug\RegistryLib.pdb
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\ResolveAssemblyReference.cache
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.dll
+C:\FREEDOM\DownloaderLib\RegistryLib\RegistryLib\obj\Debug\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\RegistryLib\bin\Debug\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\RegistryLib\bin\Debug\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\RegistryLib\obj\Debug\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\RegistryLib\obj\Debug\RegistryLib.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\RegistryLib\bin\Debug\RegistryLib.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\RegistryLib\bin\Debug\RegistryLib.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\RegistryLib\obj\Debug\RegistryLib.csprojResolveAssemblyReference.cache
+G:\Software Development\EliteWork Desktop Tracker_2.6\RegistryLib\obj\Debug\RegistryLib.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\RegistryLib\obj\Debug\RegistryLib.pdb

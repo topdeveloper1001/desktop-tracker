@@ -1,0 +1,23 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\EWActivityCatcherTest.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\EWActivityCatcherTest.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\EWActivityCatcher.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\MouseKeyActivity.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\EWActivityCatcher.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\MouseKeyActivity.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\bin\Debug\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\obj\Debug\EWActivityCatcherTest.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\obj\Debug\EWActivityCatcherTest.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EWActivityCatcherTest\obj\Debug\EWActivityCatcherTest.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\EWActivityCatcherTest.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\EWActivityCatcherTest.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\EWActivityCatcher.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\MouseKeyActivity.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\Common.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\EWActivityCatcher.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\MouseKeyActivity.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\bin\Debug\Common.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\obj\Debug\EWActivityCatcherTest.csprojResolveAssemblyReference.cache
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\obj\Debug\EWActivityCatcherTest.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcherTest\obj\Debug\EWActivityCatcherTest.pdb

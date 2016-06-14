@@ -1,0 +1,30 @@
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyboardActivityFormTest.exe.config
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyboardActivityFormTest.exe
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyboardActivityFormTest.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\EWActivityCatcher.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyActivity.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\EWActivityCatcher.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyActivity.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.Form1.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.Properties.Resources.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.csproj.GenerateResource.Cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.exe
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.csprojResolveAssemblyReference.cache
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyboardActivityFormTest.exe.config
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyboardActivityFormTest.exe
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyboardActivityFormTest.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\EWActivityCatcher.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyActivity.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\Common.dll
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\EWActivityCatcher.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\MouseKeyActivity.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Debug\Common.pdb
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.csprojResolveAssemblyReference.cache
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.Form1.resources
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.Properties.Resources.resources
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.csproj.GenerateResource.Cache
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.exe
+G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Debug\MouseKeyboardActivityFormTest.pdb

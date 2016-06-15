@@ -61,3 +61,7 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop 
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\Bin\RegistryLib.pdb
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\RegistryLib\obj\Release\RegistryLib.dll
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\RegistryLib\obj\Release\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\Bin\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\Bin\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.pdb

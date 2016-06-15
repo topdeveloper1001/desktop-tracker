@@ -44,6 +44,7 @@
             this._second_timer_lb.Size = new System.Drawing.Size(192, 78);
             this._second_timer_lb.TabIndex = 38;
             this._second_timer_lb.Text = "label3";
+            this._second_timer_lb.Click += new System.EventHandler(this._second_timer_lb_Click);
             // 
             // _tird_timer_lb
             // 
@@ -57,6 +58,7 @@
             this._tird_timer_lb.Size = new System.Drawing.Size(74, 29);
             this._tird_timer_lb.TabIndex = 39;
             this._tird_timer_lb.Text = "label3";
+            this._tird_timer_lb.Click += new System.EventHandler(this._tird_timer_lb_Click);
             // 
             // ActualDataForm
             // 
@@ -69,6 +71,7 @@
             this.Name = "ActualDataForm";
             this.ShowInTaskbar = false;
             this.Text = "ActualDataForm";
+            this.Click += new System.EventHandler(this.ActualDataForm_Click);
             this.ResumeLayout(false);
             this.PerformLayout();
 

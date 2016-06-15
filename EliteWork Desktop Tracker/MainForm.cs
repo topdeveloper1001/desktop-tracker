@@ -286,7 +286,7 @@ namespace EliteWork_Desktop_Tracker
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            ActualDataForm = new ActualDataForm();
+            ActualDataForm = new ActualDataForm(this);
             ActualDataForm.Visible = false;
             int x = Screen.PrimaryScreen.WorkingArea.Width - ActualDataForm.Width;
             int y = Screen.PrimaryScreen.WorkingArea.Height - ActualDataForm.Height;
@@ -971,6 +971,17 @@ namespace EliteWork_Desktop_Tracker
 
             if (ShowNotifyForm)
                 NotifycationHelper.GetInstance().MouseMove();
+        }
+
+        public void ShowMainForm()
+        {
+            try
+            {
+                this.Show();
+                this.WindowState = FormWindowState.Normal;
+                this.ShowInTaskbar = true;
+            }
+            catch { }
         }
     }
 }

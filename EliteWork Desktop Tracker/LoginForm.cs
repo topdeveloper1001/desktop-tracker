@@ -42,7 +42,7 @@ namespace EliteWork_Desktop_Tracker
             //ActualDataForm.Location = new Point(x, y);
             ///////////////////
 
-
+            System.Net.ServicePointManager.Expect100Continue = false;
             //PrepareVersionPanel();
             _new_version_pn.Visible = false;
             //GetSavedEmailAndDetectVersion();

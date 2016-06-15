@@ -44,16 +44,24 @@ namespace EWWebProcessor
         public static string UploadFileWithParams(string address, IEnumerable<object> files, NameValueCollection values)
         {
             IFileUploader uploader = FileUploaderFactory.CreateFileUploader();
-            byte[] response = uploader.UploadFiles(address, files, values);
-            uploader.CloseStreams(files);
-            return Encoding.Default.GetString(response);
+            try
+            {
+                byte[] response = uploader.UploadFiles(address, files, values);
+                uploader.CloseStreams(files);
+                return Encoding.Default.GetString(response);
+            }
+            catch { return "CONNECTION_FAIL"; }
         }
 
         public static string MakePostRequest(string address, NameValueCollection values)
         {
             IFileUploader uploader = FileUploaderFactory.CreateFileUploader();
-            byte[] response = uploader.UploadFiles(address, new List<object>(), values);
-            return Encoding.Default.GetString(response);
+            try
+            {
+                byte[] response = uploader.UploadFiles(address, new List<object>(), values);
+                return Encoding.Default.GetString(response);
+            }
+            catch { return "CONNECTION_FAIL"; }
         }
 
         public static bool CheckInternetConnection()

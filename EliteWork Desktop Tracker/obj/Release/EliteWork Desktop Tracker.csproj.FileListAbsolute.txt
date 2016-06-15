@@ -44,3 +44,27 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop 
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csproj.GenerateResource.Cache
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.CrashReportAlert.resources
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.ActualDataForm.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EliteWork Desktop Tracker.exe.config
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.exe
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EliteWork Desktop Tracker.exe
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EliteWork Desktop Tracker.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWActivityCatcher.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWLocalCache.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWWebProcessor.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\RegistryLib.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\MouseKeyActivity.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWActivityCatcher.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWLocalCache.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWWebProcessor.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\RegistryLib.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.ActualDataForm.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.CrashReportAlert.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.LoginForm.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.MainForm.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.Properties.Resources.resources
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csproj.GenerateResource.Cache

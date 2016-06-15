@@ -12,11 +12,13 @@ namespace EliteWork_Desktop_Tracker
     public partial class ActualDataForm : Form
     {
         private static int[] RGB_TRANS_MASK = { 230, 240, 250 };
+        private MainForm _MainForm = null;
 
-        public ActualDataForm()
+        public ActualDataForm(MainForm MainForm)
         {
             InitializeComponent();
 
+            _MainForm = MainForm;
             this.FormBorderStyle = FormBorderStyle.None;
             this.Width = this.BackgroundImage.Width;
             this.Height = this.BackgroundImage.Height;
@@ -35,6 +37,21 @@ namespace EliteWork_Desktop_Tracker
         {
             _second_timer_lb.Text = time;
             _second_timer_lb.Left = (this.Width - _second_timer_lb.Width) / 2;
+        }
+
+        private void ActualDataForm_Click(object sender, EventArgs e)
+        {
+            _MainForm.ShowMainForm();
+        }
+
+        private void _second_timer_lb_Click(object sender, EventArgs e)
+        {
+            _MainForm.ShowMainForm();
+        }
+
+        private void _tird_timer_lb_Click(object sender, EventArgs e)
+        {
+            _MainForm.ShowMainForm();
         }
     }
 }

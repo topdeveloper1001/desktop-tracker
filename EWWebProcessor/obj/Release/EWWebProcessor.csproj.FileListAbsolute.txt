@@ -12,3 +12,10 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop 
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWWebProcessor\obj\Release\EWWebProcessor.csprojResolveAssemblyReference.cache
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWWebProcessor\obj\Release\EWWebProcessor.dll
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\Versions\v2.20\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker_2.6\EWWebProcessor\obj\Release\EWWebProcessor.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWWebProcessor\bin\Release\EWWebProcessor.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWWebProcessor\bin\Release\EWWebProcessor.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWWebProcessor\bin\Release\Common.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWWebProcessor\bin\Release\Common.pdb
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWWebProcessor\obj\Release\EWWebProcessor.csprojResolveAssemblyReference.cache
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWWebProcessor\obj\Release\EWWebProcessor.dll
+C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWWebProcessor\obj\Release\EWWebProcessor.pdb

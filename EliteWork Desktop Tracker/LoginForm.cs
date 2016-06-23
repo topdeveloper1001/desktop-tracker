@@ -271,34 +271,38 @@ namespace EliteWork_Desktop_Tracker
         
         private void SetVersionButtonImage(Button button, bool mouseEnter)
         {
-            if (CurrentContext.GetInstance().VersionData.State == VersionState.LATEST)
+            try
             {
-                if (mouseEnter)
-                    button.BackgroundImage = Resources.version_button_over;
+                if (CurrentContext.GetInstance().VersionData.State == VersionState.LATEST)
+                {
+                    if (mouseEnter)
+                        button.BackgroundImage = Resources.version_button_over;
+                    else
+                        button.BackgroundImage = Resources.version_button;
+                }
+                else if (CurrentContext.GetInstance().VersionData.State == VersionState.UPDATE_AVAILABLE)
+                {
+                    if (mouseEnter)
+                        button.BackgroundImage = Resources.version_button_warn_over;
+                    else
+                        button.BackgroundImage = Resources.version_button_warn;
+                }
+                else if (CurrentContext.GetInstance().VersionData.State == VersionState.UPDATE_REQUIRED)
+                {
+                    if (mouseEnter)
+                        button.BackgroundImage = Resources.version_button_alarm_over;
+                    else
+                        button.BackgroundImage = Resources.version_button_alarm;
+                }
                 else
-                    button.BackgroundImage = Resources.version_button;
+                {
+                    if (mouseEnter)
+                        button.BackgroundImage = Resources.version_button_over;
+                    else
+                        button.BackgroundImage = Resources.version_button;
+                }
             }
-            else if (CurrentContext.GetInstance().VersionData.State == VersionState.UPDATE_AVAILABLE)
-            {
-                if (mouseEnter)
-                    button.BackgroundImage = Resources.version_button_warn_over;
-                else
-                    button.BackgroundImage = Resources.version_button_warn;
-            }
-            else if (CurrentContext.GetInstance().VersionData.State == VersionState.UPDATE_REQUIRED)
-            {
-                if (mouseEnter)
-                    button.BackgroundImage = Resources.version_button_alarm_over;
-                else
-                    button.BackgroundImage = Resources.version_button_alarm;
-            }
-            else
-            {
-                if (mouseEnter)
-                    button.BackgroundImage = Resources.version_button_over;
-                else
-                    button.BackgroundImage = Resources.version_button;
-            }
+            catch { }
         }
 
         private void _version_btn_MouseEnter(object sender, EventArgs e)

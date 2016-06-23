@@ -332,7 +332,7 @@ namespace EliteWork_Desktop_Tracker
 
         void MonitorOnChanged(object sender, EventArgs e)
         {
-            if (!PowerManager.IsMonitorOn)
+            if (!PowerManager.IsMonitorOn && !_IsSessionSleep)
             {
                 LogController.GetInstance().LogData(LogController.
                                             GetInstance().LogFormat.GetNavigationLine("Monitor status changed: Off"));
@@ -347,11 +347,14 @@ namespace EliteWork_Desktop_Tracker
             switch (e.Mode)
             {
                 case PowerModes.Suspend:
-                    LogController.GetInstance().LogData(LogController.
-                                            GetInstance().LogFormat.GetNavigationLine("Power mode status changed: Suspend"));
-                    CurrentContext.GetInstance().IsSessionSleep = true;
-                    _IsSessionSleep = true;
-                    CloseSession();
+                    if (!_IsSessionSleep)
+                    {
+                        LogController.GetInstance().LogData(LogController.
+                                                GetInstance().LogFormat.GetNavigationLine("Power mode status changed: Suspend"));
+                        CurrentContext.GetInstance().IsSessionSleep = true;
+                        _IsSessionSleep = true;
+                        CloseSession();
+                    }
                     break;
                 default:
                     break;
@@ -360,7 +363,7 @@ namespace EliteWork_Desktop_Tracker
 
         void OnSessionSwitch(object sender, SessionSwitchEventArgs e)
         {
-            if (e.Reason == SessionSwitchReason.SessionLogoff)
+            if (e.Reason == SessionSwitchReason.SessionLogoff && !_IsSessionSleep)
             {
                 LogController.GetInstance().LogData(LogController.
                                             GetInstance().LogFormat.GetNavigationLine("System session status changed: Logoff"));
@@ -368,7 +371,7 @@ namespace EliteWork_Desktop_Tracker
                 _IsSessionSleep = true;
                 CloseSession();
             }
-            else if (e.Reason == SessionSwitchReason.SessionLock)
+            else if (e.Reason == SessionSwitchReason.SessionLock && !_IsSessionSleep)
             {
                 LogController.GetInstance().LogData(LogController.
                                             GetInstance().LogFormat.GetNavigationLine("System session status changed: Lock"));

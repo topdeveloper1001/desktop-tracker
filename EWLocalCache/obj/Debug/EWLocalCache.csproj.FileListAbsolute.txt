@@ -12,3 +12,10 @@ G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\bin\Debug\Com
 G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Debug\EWLocalCache.csprojResolveAssemblyReference.cache
 G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Debug\EWLocalCache.dll
 G:\Software Development\EliteWork Desktop Tracker_2.6\EWLocalCache\obj\Debug\EWLocalCache.pdb
+G:\Software Development\elitework-desktop-tracker\EWLocalCache\bin\Debug\EWLocalCache.dll
+G:\Software Development\elitework-desktop-tracker\EWLocalCache\bin\Debug\EWLocalCache.pdb
+G:\Software Development\elitework-desktop-tracker\EWLocalCache\bin\Debug\Common.dll
+G:\Software Development\elitework-desktop-tracker\EWLocalCache\bin\Debug\Common.pdb
+G:\Software Development\elitework-desktop-tracker\EWLocalCache\obj\Debug\EWLocalCache.csprojResolveAssemblyReference.cache
+G:\Software Development\elitework-desktop-tracker\EWLocalCache\obj\Debug\EWLocalCache.dll
+G:\Software Development\elitework-desktop-tracker\EWLocalCache\obj\Debug\EWLocalCache.pdb

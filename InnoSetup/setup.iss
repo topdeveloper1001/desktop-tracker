@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "EliteWork Desktop Tracker"
-#define MyAppVersion "2.11"
+#define MyAppVersion "2.22"
 #define MyAppPublisher "EliteWork"
 #define MyAppURL "http://www.elitework.com"
 #define MyAppExeName "EliteWork Desktop Tracker.exe"

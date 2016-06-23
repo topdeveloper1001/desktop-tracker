@@ -16,3 +16,12 @@ G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcher\bin\Debu
 G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcher\obj\Debug\EWActivityCatcher.csprojResolveAssemblyReference.cache
 G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcher\obj\Debug\EWActivityCatcher.dll
 G:\Software Development\EliteWork Desktop Tracker_2.6\EWActivityCatcher\obj\Debug\EWActivityCatcher.pdb
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\bin\Debug\EWActivityCatcher.dll
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\bin\Debug\EWActivityCatcher.pdb
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\bin\Debug\Common.dll
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\bin\Debug\MouseKeyActivity.dll
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\bin\Debug\Common.pdb
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\bin\Debug\MouseKeyActivity.pdb
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\obj\Debug\EWActivityCatcher.csprojResolveAssemblyReference.cache
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\obj\Debug\EWActivityCatcher.dll
+G:\Software Development\elitework-desktop-tracker\EWActivityCatcher\obj\Debug\EWActivityCatcher.pdb

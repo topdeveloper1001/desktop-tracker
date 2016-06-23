@@ -43,3 +43,28 @@ G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\
 G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\obj\Debug\EliteWork_Desktop_Tracker.MainForm.resources
 G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\obj\Debug\EliteWork_Desktop_Tracker.Properties.Resources.resources
 G:\Software Development\EliteWork Desktop Tracker_2.6\EliteWork Desktop Tracker\obj\Debug\EliteWork Desktop Tracker.csproj.GenerateResource.Cache
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EliteWork Desktop Tracker.exe.config
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork Desktop Tracker.exe
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork Desktop Tracker.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EliteWork Desktop Tracker.exe
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EliteWork Desktop Tracker.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\Common.dll
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EWActivityCatcher.dll
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EWLocalCache.dll
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EWWebProcessor.dll
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\Microsoft.WindowsAPICodePack.dll
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\RegistryLib.dll
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\MouseKeyActivity.dll
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\Common.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EWActivityCatcher.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EWLocalCache.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\EWWebProcessor.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\RegistryLib.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Debug\MouseKeyActivity.pdb
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork Desktop Tracker.csprojResolveAssemblyReference.cache
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork_Desktop_Tracker.ActualDataForm.resources
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork_Desktop_Tracker.CrashReportAlert.resources
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork_Desktop_Tracker.LoginForm.resources
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork_Desktop_Tracker.MainForm.resources
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork_Desktop_Tracker.Properties.Resources.resources
+G:\Software Development\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Debug\EliteWork Desktop Tracker.csproj.GenerateResource.Cache

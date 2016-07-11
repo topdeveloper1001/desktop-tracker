@@ -47,14 +47,18 @@ namespace EWLocalCache
 
         public static bool CreateEncryptedImages(string sessionId)
         {
-            string[] filePaths = GetDecryptedImagePaths(sessionId);
-            foreach (string path in filePaths)
+            try
             {
-                byte[] fileBytes = File.ReadAllBytes(path);
-                byte[] encrypted = CacheEncrypter.EncryptData(fileBytes, CommonConst.DES_KEY);
-                File.WriteAllBytes(string.Format("{0}\\{1}\\{2}", CommonConst.LOCAL_CACHE_PATH,
-                    sessionId, Path.GetFileName(path).Replace(CommonConst.DECR_IMG_EXT, CommonConst.ENCR_IMG_EXT)), encrypted);
+                string[] filePaths = GetDecryptedImagePaths(sessionId);
+                foreach (string path in filePaths)
+                {
+                    byte[] fileBytes = File.ReadAllBytes(path);
+                    byte[] encrypted = CacheEncrypter.EncryptData(fileBytes, CommonConst.DES_KEY);
+                    File.WriteAllBytes(string.Format("{0}\\{1}\\{2}", CommonConst.LOCAL_CACHE_PATH,
+                        sessionId, Path.GetFileName(path).Replace(CommonConst.DECR_IMG_EXT, CommonConst.ENCR_IMG_EXT)), encrypted);
+                }
             }
+            catch { return false; }
             return true;
         }
 

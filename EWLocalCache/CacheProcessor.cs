@@ -178,9 +178,13 @@ namespace EWLocalCache
             if (!File.Exists(GetDataDecryptedFilePath(sessionId)))
                 return true;
 
-            string data = File.ReadAllText(GetDataDecryptedFilePath(sessionId));
-            byte[] encrypted = CacheEncrypter.EncryptData(CacheUtils.GetBytes(data), CommonConst.DES_KEY);
-            File.WriteAllBytes(GetDataEncryptedFilePath(sessionId), encrypted);
+            try
+            {
+                string data = File.ReadAllText(GetDataDecryptedFilePath(sessionId));
+                byte[] encrypted = CacheEncrypter.EncryptData(CacheUtils.GetBytes(data), CommonConst.DES_KEY);
+                File.WriteAllBytes(GetDataEncryptedFilePath(sessionId), encrypted);
+            }
+            catch { return true; }
             return true;
         }
 

@@ -719,10 +719,14 @@ namespace EliteWork_Desktop_Tracker
 
         public void AppendLine(string line)
         {
-            this.Invoke((MethodInvoker)delegate ()
+            try
             {
-                _activity_log_tb.AppendText(string.Format("{0}{1}", line, Environment.NewLine));
-            });
+                this.Invoke((MethodInvoker)delegate ()
+                {
+                    _activity_log_tb.AppendText(string.Format("{0}{1}", line, Environment.NewLine));
+                });
+            }
+            catch { }
         }
 
         private void _log_btn_Click(object sender, EventArgs e)

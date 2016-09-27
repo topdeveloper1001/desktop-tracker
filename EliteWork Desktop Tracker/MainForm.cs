@@ -35,6 +35,7 @@ namespace EliteWork_Desktop_Tracker
         private int InternetConnectionCount = 0;
         private bool ShowNotifyForm = false;
         private ActualDataForm ActualDataForm = null;
+        private int _CurrentTimestamp = -1;
 
         private string BUG_REPORT_TEXT = "To better understand the issue, please help share the following" + Environment.NewLine +
                     "details while reporting bugs in EliteWork tracker application." + Environment.NewLine + Environment.NewLine +
@@ -123,6 +124,7 @@ namespace EliteWork_Desktop_Tracker
             {
                 IsInternetExists = false;
             }
+            _time_change_detector.Start();
         }
 
         private void InitSettingsCheckboxes()
@@ -989,6 +991,54 @@ namespace EliteWork_Desktop_Tracker
                 this.ShowInTaskbar = true;
             }
             catch { }
+        }
+
+        private void _time_change_detector_Tick(object sender, EventArgs e)
+        {
+            int nowTime = TimingHelper.GetCurrentTimestamp();
+            if (_CurrentTimestamp < 0)
+            {
+                _CurrentTimestamp = nowTime;
+                return;
+            }
+            else
+            {
+                int delta = nowTime - _CurrentTimestamp;
+                _CurrentTimestamp = nowTime;
+                if ((delta > 70) || (delta < 50))
+                {
+                    if (CurrentContext.GetInstance().CurrentState == State.STARTED)
+                    {
+                        CloseSession();
+                        DialogResult dialogResult = MessageBox.Show("The tracker detected time change event on your system. The running session " + 
+                            "stopped automatically, would you like to restart it now?", "Time Change Event", MessageBoxButtons.YesNo);
+                        if (dialogResult == DialogResult.Yes)
+                        {
+                            LogController.GetInstance().LogData(LogController.
+                                            GetInstance().LogFormat.GetSessionLine("Started"));
+                            if (_MinimizeToTrayChecked)
+                                MinimizeToSystemTray();
+                            _start_btn.BackgroundImage = Resources.stop_button_over;
+                            _timer_pb.BackgroundImage = Resources.stop_button_over_n;
+                            this.Icon = Resources.icon_green;
+                            _balloon_ni.Icon = Resources.icon_green;
+                            ActualDataForm.BackgroundImage = Resources.notify_form_started_2;
+                            _start_btn.Text = "STOP";
+                            CurrentContext.GetInstance().CurrentState = State.STARTED;
+                            SessionController.GetInstance().StartSession(true);
+                            _timer_tm.Start();
+                            TimerCall();
+                            ShowNotifyForm = true;
+                            if (!_DisableNotifyChecked)
+                                ShowBalloonNotification("EliteWork Desktop Tracker", "Tracker Started");
+                        }
+                        else if (dialogResult == DialogResult.No)
+                        {
+                            //do something else
+                        }
+                    }
+                }
+            }
         }
     }
 }

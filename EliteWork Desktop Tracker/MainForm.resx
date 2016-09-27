@@ -709,10 +709,13 @@ Thank you for your patience.</value>
   <metadata name="_current_timer_tm.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>406, 17</value>
   </metadata>
+  <metadata name="_time_change_detector.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>555, 17</value>
+  </metadata>
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAlgAAAHgCAYAAAB5FxNZAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7O
-        HOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA3TAAAN0wG91RxqAAAAGXRFWHRTb2Z0d2FyZQB3d3cu
+        HOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA3SAAAN0gFvkv6OAAAAGXRFWHRTb2Z0d2FyZQB3d3cu
         aW5rc2NhcGUub3Jnm+48GgAAORlJREFUeF7t3IefJGd17vH+N5xxzgkwWUQRDOYabAO+vjhc8HUCmSyh
         vFpJKAskJFBCOSChgJBBCJEEWICQwWCCwSKDkHZyno19z/PWeWuqe96dmZ09u13d86vP54u2q95O1VXn
         PBWGzswZL+4CwKHzJ6Ppbai8CJswPTReOBinDz8C1pZlhXEUFRvAVlQu6lhbucG0kRXwQSg0ERyMP8YI

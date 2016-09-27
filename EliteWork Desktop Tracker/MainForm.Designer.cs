@@ -89,6 +89,7 @@
             this._to_tray_btn = new System.Windows.Forms.Button();
             this._connection_timer_tm = new System.Windows.Forms.Timer(this.components);
             this._current_timer_tm = new System.Windows.Forms.Timer(this.components);
+            this._time_change_detector = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this._timer_pb)).BeginInit();
             this._settings_pn.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this._disable_notify_pb)).BeginInit();
@@ -985,6 +986,11 @@
             this._current_timer_tm.Interval = 1000;
             this._current_timer_tm.Tick += new System.EventHandler(this._current_timer_tm_Tick);
             // 
+            // _time_change_detector
+            // 
+            this._time_change_detector.Interval = 60000;
+            this._time_change_detector.Tick += new System.EventHandler(this._time_change_detector_Tick);
+            // 
             // MainForm
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -1097,5 +1103,6 @@
         private System.Windows.Forms.Button _to_tray_btn;
         private System.Windows.Forms.Timer _connection_timer_tm;
         private System.Windows.Forms.Timer _current_timer_tm;
+        private System.Windows.Forms.Timer _time_change_detector;
     }
 }

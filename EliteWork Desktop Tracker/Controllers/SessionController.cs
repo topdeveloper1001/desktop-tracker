@@ -146,7 +146,7 @@ namespace EliteWork_Desktop_Tracker.Controllers
             int current = TimingHelper.GetCurrentTimestamp();
             TimeSpan timeSpan = 
                 TimeSpan.FromSeconds(current - CurrentContext.GetInstance().Session.StartTimestamp);
-            return new Point(timeSpan.Minutes, timeSpan.Hours);
+            return new Point(timeSpan.Minutes < 0 ? 0 : timeSpan.Minutes, timeSpan.Hours < 0 ? 0 : timeSpan.Hours);
         }
 
         public Point GetCurrentTime()

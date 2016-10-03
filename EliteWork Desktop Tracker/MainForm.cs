@@ -6,7 +6,7 @@ using EliteWork_Desktop_Tracker.Model;
 using EliteWork_Desktop_Tracker.Properties;
 using EWWebProcessor;
 using Microsoft.Win32;
-using Microsoft.WindowsAPICodePack.ApplicationServices;
+//using Microsoft.WindowsAPICodePack.ApplicationServices;
 using RegistryLib;
 using System;
 using System.Collections.Generic;
@@ -304,7 +304,7 @@ namespace EliteWork_Desktop_Tracker
             AppendTransparentControl(_timer_pb, _four_timer_lb);
             LogController.GetInstance().SetLogHandler(this);
 
-            PowerManager.IsMonitorOnChanged += new EventHandler(MonitorOnChanged);
+            //PowerManager.IsMonitorOnChanged += new EventHandler(MonitorOnChanged);
             SystemEvents.SessionSwitch += OnSessionSwitch;
             SystemEvents.PowerModeChanged += OnPowerChange;
             _current_timer_tm.Start();
@@ -334,14 +334,14 @@ namespace EliteWork_Desktop_Tracker
 
         void MonitorOnChanged(object sender, EventArgs e)
         {
-            if (!PowerManager.IsMonitorOn && !_IsSessionSleep)
+            /*if (!PowerManager.IsMonitorOn && !_IsSessionSleep)
             {
                 LogController.GetInstance().LogData(LogController.
                                             GetInstance().LogFormat.GetNavigationLine("Monitor status changed: Off"));
                 CurrentContext.GetInstance().IsSessionSleep = true;
                 _IsSessionSleep = true;
                 CloseSession();
-            }
+            }*/
         }
 
         void OnPowerChange(Object sender, PowerModeChangedEventArgs e)

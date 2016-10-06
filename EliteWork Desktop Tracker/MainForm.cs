@@ -36,6 +36,8 @@ namespace EliteWork_Desktop_Tracker
         private bool ShowNotifyForm = false;
         private ActualDataForm ActualDataForm = null;
         private int _CurrentTimestamp = -1;
+        private bool _SessionExpired = false;
+        private bool _SessionExpiredTimerStarted = false;
 
         private string BUG_REPORT_TEXT = "To better understand the issue, please help share the following" + Environment.NewLine +
                     "details while reporting bugs in EliteWork tracker application." + Environment.NewLine + Environment.NewLine +
@@ -277,7 +279,7 @@ namespace EliteWork_Desktop_Tracker
                 if (dialogResult == DialogResult.Yes)
                 {
                     _IsCloseApp = true;
-                    CloseSession();
+                    CloseSession(true, false);
                 }
                 else if (dialogResult == DialogResult.No)
                 { }
@@ -317,7 +319,7 @@ namespace EliteWork_Desktop_Tracker
             //MessageBoxManager.Register();
         }
 
-        private void CloseSession()
+        private void CloseSession(bool unsubscribe, bool startSystemSleepTimer)
         {
             LogController.GetInstance().LogData(LogController.
                                         GetInstance().LogFormat.GetSessionLine("Stopped"));
@@ -328,8 +330,18 @@ namespace EliteWork_Desktop_Tracker
             ActualDataForm.BackgroundImage = Resources.notify_form_stopped;
             _start_btn.Text = "START";
             CurrentContext.GetInstance().CurrentState = State.STOPPED;
-            SessionController.GetInstance().StopSession(true);
+            SessionController.GetInstance().StopSession(unsubscribe);
             StopTimerAndChangePanel();
+            if (startSystemSleepTimer)
+                StartSystemSleepTimer();
+        }
+
+        private void StartSystemSleepTimer()
+        {
+            _system_sleep_interval_tm.Interval = CommonConst.SYSTEM_SLEEP_TIMER_INTERVAL;
+            _SessionExpiredTimerStarted = true;
+            _SessionExpired = false;
+            _system_sleep_interval_tm.Start();
         }
 
         void MonitorOnChanged(object sender, EventArgs e)
@@ -340,7 +352,7 @@ namespace EliteWork_Desktop_Tracker
                                             GetInstance().LogFormat.GetNavigationLine("Monitor status changed: Off"));
                 CurrentContext.GetInstance().IsSessionSleep = true;
                 _IsSessionSleep = true;
-                CloseSession();
+                CloseSession(false);
             }*/
         }
 
@@ -349,13 +361,13 @@ namespace EliteWork_Desktop_Tracker
             switch (e.Mode)
             {
                 case PowerModes.Suspend:
-                    if (!_IsSessionSleep)
+                    if (!_IsSessionSleep && CurrentContext.GetInstance().CurrentState == State.STARTED)
                     {
                         LogController.GetInstance().LogData(LogController.
                                                 GetInstance().LogFormat.GetNavigationLine("Power mode status changed: Suspend"));
                         CurrentContext.GetInstance().IsSessionSleep = true;
                         _IsSessionSleep = true;
-                        CloseSession();
+                        CloseSession(false, true);
                     }
                     break;
                 default:
@@ -365,21 +377,23 @@ namespace EliteWork_Desktop_Tracker
 
         void OnSessionSwitch(object sender, SessionSwitchEventArgs e)
         {
-            if (e.Reason == SessionSwitchReason.SessionLogoff && !_IsSessionSleep)
+            if (e.Reason == SessionSwitchReason.SessionLogoff && 
+                !_IsSessionSleep && CurrentContext.GetInstance().CurrentState == State.STARTED)
             {
                 LogController.GetInstance().LogData(LogController.
                                             GetInstance().LogFormat.GetNavigationLine("System session status changed: Logoff"));
                 CurrentContext.GetInstance().IsSessionSleep = true;
                 _IsSessionSleep = true;
-                CloseSession();
+                CloseSession(false, true);
             }
-            else if (e.Reason == SessionSwitchReason.SessionLock && !_IsSessionSleep)
+            else if (e.Reason == SessionSwitchReason.SessionLock && 
+                !_IsSessionSleep && CurrentContext.GetInstance().CurrentState == State.STARTED)
             {
                 LogController.GetInstance().LogData(LogController.
                                             GetInstance().LogFormat.GetNavigationLine("System session status changed: Lock"));
                 CurrentContext.GetInstance().IsSessionSleep = true;
                 _IsSessionSleep = true;
-                CloseSession();
+                CloseSession(false, true);
             }
 
         }
@@ -943,23 +957,29 @@ namespace EliteWork_Desktop_Tracker
             if (CurrentContext.GetInstance().CurrentState == State.STOPPED && _IsSessionSleep)
             {
                 _IsSessionSleep = false;
-                CurrentContext.GetInstance().IsSessionSleep = false;
-                LogController.GetInstance().LogData(LogController.
-                                        GetInstance().LogFormat.GetSessionLine("Session restarted automatically!"));
-                if (_MinimizeToTrayChecked)
-                    MinimizeToSystemTray();
-                _start_btn.BackgroundImage = Resources.stop_button_over;
-                _timer_pb.BackgroundImage = Resources.stop_button_over_n;
-                this.Icon = Resources.icon_green;
-                _balloon_ni.Icon = Resources.icon_green;
-                ActualDataForm.BackgroundImage = Resources.notify_form_started_2;
-                _start_btn.Text = "STOP";
-                CurrentContext.GetInstance().CurrentState = State.STARTED;
-                SessionController.GetInstance().StartSession(false);
-                _timer_tm.Start();
-                TimerCall();
-                if (!_DisableNotifyChecked)
-                    ShowBalloonNotification("EliteWork Desktop Tracker", "Session restarted automatically!");
+                if (!_SessionExpired)
+                {
+                    _SessionExpired = false;
+                    _SessionExpiredTimerStarted = false;
+                    _system_sleep_interval_tm.Stop();
+                    CurrentContext.GetInstance().IsSessionSleep = false;
+                    LogController.GetInstance().LogData(LogController.
+                                            GetInstance().LogFormat.GetSessionLine("Session restarted automatically!"));
+                    if (_MinimizeToTrayChecked)
+                        MinimizeToSystemTray();
+                    _start_btn.BackgroundImage = Resources.stop_button_over;
+                    _timer_pb.BackgroundImage = Resources.stop_button_over_n;
+                    this.Icon = Resources.icon_green;
+                    _balloon_ni.Icon = Resources.icon_green;
+                    ActualDataForm.BackgroundImage = Resources.notify_form_started_2;
+                    _start_btn.Text = "STOP";
+                    CurrentContext.GetInstance().CurrentState = State.STARTED;
+                    SessionController.GetInstance().StartSession(false);
+                    _timer_tm.Start();
+                    TimerCall();
+                    if (!_DisableNotifyChecked)
+                        ShowBalloonNotification("EliteWork Desktop Tracker", "Session restarted automatically!");
+                }
             }
         }
 
@@ -1009,7 +1029,7 @@ namespace EliteWork_Desktop_Tracker
                 {
                     if (CurrentContext.GetInstance().CurrentState == State.STARTED)
                     {
-                        CloseSession();
+                        CloseSession(true, false);
                         DialogResult dialogResult = MessageBox.Show("The tracker detected time change event on your system. The running session " + 
                             "stopped automatically, would you like to restart it now?", "Time Change Event", MessageBoxButtons.YesNo);
                         if (dialogResult == DialogResult.Yes)
@@ -1039,6 +1059,13 @@ namespace EliteWork_Desktop_Tracker
                     }
                 }
             }
+        }
+
+        private void _system_sleep_interval_tm_Tick(object sender, EventArgs e)
+        {
+            _SessionExpired = true;
+            _SessionExpiredTimerStarted = false;
+            _system_sleep_interval_tm.Stop();
         }
     }
 }

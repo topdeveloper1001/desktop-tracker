@@ -10,6 +10,7 @@ namespace Common
         public static int DELAY = 20 * 1000;
         public static int INACTIVE_INTERVAL = 6;
         public static int INTERNET_CONNECTION_TIMEOUT = 15 * 1000;
+        public static int SYSTEM_SLEEP_TIMER_INTERVAL = 90 * 60 * 1000;
 
         public static string COMMON_EW_PATH = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         public static string LOCAL_CACHE_PATH = string.Format("{0}\\EW\\cache", COMMON_EW_PATH);

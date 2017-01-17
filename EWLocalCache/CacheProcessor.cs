@@ -118,11 +118,15 @@ namespace EWLocalCache
 
         public static List<string> LoadData(string sessionId)
         {
-            if (!File.Exists(GetDataDecryptedFilePath(sessionId)))
-                return new List<string>();
+            try
+            {
+                if (!File.Exists(GetDataDecryptedFilePath(sessionId)))
+                    return new List<string>();
 
-            string[] loadedData = File.ReadAllLines(GetDataDecryptedFilePath(sessionId));
-            return new List<string>(loadedData);
+                string[] loadedData = File.ReadAllLines(GetDataDecryptedFilePath(sessionId));
+                return new List<string>(loadedData);
+            }
+            catch { return new List<string>(); }
         }
 
         public static ClearCacheState ClearCache()

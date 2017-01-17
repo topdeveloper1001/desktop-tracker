@@ -22,7 +22,7 @@ namespace Common
         public static string ENCR_DATA_EXT = ".den";
         public static string DECR_DATA_EXT = ".txt";
         public static string SESSION_DATA_FILE = "data";
-        public static double CURRENT_VERSION = 2.22;
+        public static double CURRENT_VERSION = 2.26;
 
         public static string REGISTRY_PATH = @"Software\EW\Account";
         public static string EMAIL_VALUE_NAME = "Email";

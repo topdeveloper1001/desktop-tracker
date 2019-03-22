@@ -68,3 +68,29 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.MainForm.resources
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.Properties.Resources.resources
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csproj.GenerateResource.Cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EliteWork Desktop Tracker.exe.config
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EliteWork Desktop Tracker.exe
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EliteWork Desktop Tracker.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\Common.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWActivityCatcher.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWLocalCache.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWWebProcessor.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\RegistryLib.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\MouseKeyActivity.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\Common.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWActivityCatcher.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWLocalCache.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\EWWebProcessor.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\bin\Release\RegistryLib.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csprojAssemblyReference.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.ActualDataForm.resources
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.CrashReportAlert.resources
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.LoginForm.resources
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.MainForm.resources
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork_Desktop_Tracker.Properties.Resources.resources
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csproj.GenerateResource.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csproj.CoreCompileInputs.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.csproj.CopyComplete
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.exe
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\obj\Release\EliteWork Desktop Tracker.pdb

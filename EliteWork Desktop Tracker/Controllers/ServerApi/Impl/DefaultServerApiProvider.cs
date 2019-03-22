@@ -33,12 +33,12 @@ namespace EliteWork_Desktop_Tracker.Controllers.ServerApi.Impl
 
         public string CreateLoginUrl(string login, string password)
         {
-            return string.Format("http://elitework.com/tracker/api/login.php?email={0}&password={1}", login, password);
+            return string.Format(CommonConst.EW_API_LOGIN_URL + "?email={0}&password={1}", login, password);
         }
 
         public string CreatePostSessionUrl()
         {
-            return "http://www.elitework.com/tracker/api/postsession.php";
+            return CommonConst.EW_API_POST_SESSION_URL;
         }
 
         public NameValueCollection CreatePostSessionParams(ISession session, ILoginData loginData)
@@ -107,7 +107,27 @@ namespace EliteWork_Desktop_Tracker.Controllers.ServerApi.Impl
             if (!string.IsNullOrEmpty(mouseTimes))
                 postParams.Add("mouse_times", mouseTimes);
 
+            // Ahmed
+            string activeAppTitles = ConvertStringListToString(session.ActiveAppTitles);
+            if (!string.IsNullOrEmpty(activeAppTitles))
+                postParams.Add("active_app_titles", activeAppTitles);
+
             return postParams;
+        }
+
+        private string ConvertStringListToString(List<String> parameters)
+        {
+            if (parameters.Count <= 0)
+                return string.Empty;
+
+            string result = string.Empty;
+            parameters.Sort();
+            StringBuilder builder = new StringBuilder();
+            foreach (String parameter in parameters)
+                builder.Append(string.Format("{0},", parameter));
+
+            builder.Remove(builder.Length - 1, 1);
+            return builder.ToString();
         }
 
         private string ConvertListToString(List<int> parameters)
@@ -142,9 +162,41 @@ namespace EliteWork_Desktop_Tracker.Controllers.ServerApi.Impl
             if (!string.IsNullOrEmpty(mouseTimes))
                 postParams.Add("mouse_times", mouseTimes);
 
+            string activeAppTitles = CombineStringData(session.ActiveAppTitles, loadedData, "active_app_titles");
+            if (!string.IsNullOrEmpty(activeAppTitles))
+                postParams.Add("active_app_titles", activeAppTitles);
+
             return postParams;
         }
-        
+
+        private string CombineStringData(List<String> sessionData, List<string> loadedData, string key)
+        {
+            List<String> resultData = new List<String>();
+
+            try
+            {
+                string data = ParseDataValue(loadedData, key);
+                string[] dataArr = null;
+                if (!string.IsNullOrEmpty(data))
+                {
+                    dataArr = data.Split(',');
+                    if (dataArr != null && dataArr.Length > 0)
+                    {
+                        List<string> dataLst = new List<string>(dataArr);
+                        resultData.AddRange(dataLst.ConvertAll<String>(delegate (string i) { return i; }));
+                    }
+                }
+            }
+            catch
+            {
+                resultData = new List<String>();
+            }
+            if (sessionData != null && sessionData.Count > 0)
+                resultData.AddRange(sessionData);
+
+            return ConvertStringListToString(resultData);
+        }
+
         private string CombineData(List<int> sessionData, List<string> loadedData, string key)
         {
             List<int> resultData = new List<int>();
@@ -199,15 +251,17 @@ namespace EliteWork_Desktop_Tracker.Controllers.ServerApi.Impl
                 ConvertListToString(session.KeyboardTimes), Environment.NewLine));
             buffer.Add(string.Format("{0}={1}{2}", "mouse_times", 
                 ConvertListToString(session.MouseTimes), Environment.NewLine));
+            buffer.Add(string.Format("{0}={1}{2}", "active_app_titles",
+                ConvertStringListToString(session.ActiveAppTitles), Environment.NewLine));
             return buffer;
         }
 
         public string CreateVersionUrl(string email, string curVer)
         {
             if (string.IsNullOrEmpty(email))
-                return string.Format("http://www.elitework.com/tracker/api/current_version.php?v={0}", curVer);
+                return string.Format(CommonConst.EW_API_CURRENT_VERSION + "?v={0}", curVer);
             else
-                return string.Format("http://www.elitework.com/tracker/api/current_version.php?email={0}&v={1}", email, curVer);
+                return string.Format(CommonConst.EW_API_CURRENT_VERSION + "?email={0}&v={1}", email, curVer);
         }
 
         public Dictionary<double, int> AnalizeVersionResponse(string resp)
@@ -230,13 +284,13 @@ namespace EliteWork_Desktop_Tracker.Controllers.ServerApi.Impl
 
         public string CreateServerLogsUrl()
         {
-            return string.Format("http://elitework.com/tracker/viewlog.php?email={0}&password={1}", 
+            return string.Format(CommonConst.EW_API_VIEWLOG + "?email={0}&password={1}", 
                 CurrentContext.GetInstance().LoginData.Login, CurrentContext.GetInstance().LoginData.Password);
         }
 
         public string CreateBugReportUrl()
         {
-            return "http://www.elitework.com/tracker/api/report.php";
+            return CommonConst.EW_API_REPORT_URL;
         }
     }
 }

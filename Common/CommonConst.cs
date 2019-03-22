@@ -22,7 +22,7 @@ namespace Common
         public static string ENCR_DATA_EXT = ".den";
         public static string DECR_DATA_EXT = ".txt";
         public static string SESSION_DATA_FILE = "data";
-        public static double CURRENT_VERSION = 2.26;
+        public static double CURRENT_VERSION = 3.00;
 
         public static string REGISTRY_PATH = @"Software\EW\Account";
         public static string EMAIL_VALUE_NAME = "Email";
@@ -31,7 +31,15 @@ namespace Common
         public static string DISABLE_TRAY_NOTIFICATION = "ShowSystemTrayNotifications";
         public static string BUG_REPORT_TOKEN = "AsTtr65221$aa";
 
-        public static int BALLOON_DELAY = 2000;
+        public static string EW_API_LOGIN_URL = "http://members.elitework.com/controllers/api/tracker_login.php";
+        public static string EW_API_POST_SESSION_URL = "http://members.elitework.com/controllers/api/postsession.php"; // email=?&password=?
+        public static string EW_API_CURRENT_VERSION = "http://members.elitework.com/controllers/api/version_check.php";
+        public static string EW_API_VIEWLOG = "http://members.elitework.com/controllers/api/view_logs.php";
+        public static string EW_API_REPORT_URL = "http://members.elitework.com/controllers/api/bug_report.php";
+
+        public static int MAX_SCREENSHOT_WIDTH = 400; // in px
+
+        public static int BALLOON_DELAY = 1000;
         public static int LOG_INTERVAL = 30;
         public static int CHECK_CONNECTION_INTERVAL = 15;
     }

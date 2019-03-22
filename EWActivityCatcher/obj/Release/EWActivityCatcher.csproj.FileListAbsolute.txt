@@ -22,3 +22,13 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.csprojResolveAssemblyReference.cache
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.dll
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\bin\Release\EWActivityCatcher.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\bin\Release\EWActivityCatcher.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\bin\Release\Common.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\bin\Release\MouseKeyActivity.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\bin\Release\Common.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.csprojAssemblyReference.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.csproj.CoreCompileInputs.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.csproj.CopyComplete
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWActivityCatcher\obj\Release\EWActivityCatcher.pdb

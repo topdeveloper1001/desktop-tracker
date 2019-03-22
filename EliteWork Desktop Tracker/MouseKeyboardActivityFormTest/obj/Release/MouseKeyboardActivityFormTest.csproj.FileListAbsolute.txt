@@ -40,3 +40,19 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.csproj.GenerateResource.Cache
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.exe
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\MouseKeyboardActivityFormTest.exe.config
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\MouseKeyboardActivityFormTest.exe
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\MouseKeyboardActivityFormTest.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\EWActivityCatcher.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\MouseKeyActivity.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\Common.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\EWActivityCatcher.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\bin\Release\Common.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.csprojAssemblyReference.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.Form1.resources
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.Properties.Resources.resources
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.csproj.GenerateResource.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.csproj.CoreCompileInputs.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.csproj.CopyComplete
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.exe
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\MouseKeyboardActivityFormTest\obj\Release\MouseKeyboardActivityFormTest.pdb

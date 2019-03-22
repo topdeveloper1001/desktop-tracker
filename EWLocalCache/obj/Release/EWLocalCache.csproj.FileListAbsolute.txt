@@ -19,3 +19,12 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.csprojResolveAssemblyReference.cache
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.dll
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\bin\Release\EWLocalCache.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\bin\Release\EWLocalCache.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\bin\Release\Common.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\bin\Release\Common.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.csprojAssemblyReference.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.csproj.CoreCompileInputs.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.csproj.CopyComplete
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EWLocalCache\obj\Release\EWLocalCache.pdb

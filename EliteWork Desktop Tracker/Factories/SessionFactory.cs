@@ -16,6 +16,7 @@ namespace EliteWork_Desktop_Tracker.Factories
             session.KeyboardTimes = new List<int>();
             session.MouseTimes = new List<int>();
             session.ScreenshotFileNames = new List<int>();
+            session.ActiveAppTitles = new List<String>();
             return session;
         }
     }

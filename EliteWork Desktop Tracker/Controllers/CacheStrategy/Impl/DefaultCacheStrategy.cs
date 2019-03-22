@@ -147,6 +147,8 @@ namespace EliteWork_Desktop_Tracker.Controllers.CacheStrategy.Impl
                 CacheProcessor.DeleteDecryptedData(sessionId);
                 CurrentContext.GetInstance().Session.KeyboardTimes.Clear();
                 CurrentContext.GetInstance().Session.MouseTimes.Clear();
+                // Ahmed
+                CurrentContext.GetInstance().Session.ActiveAppTitles.Clear();
             }
             else
             {
@@ -154,6 +156,7 @@ namespace EliteWork_Desktop_Tracker.Controllers.CacheStrategy.Impl
                             GetInstance().LogFormat.GetNetworkLine("Upload Success"));
                 CurrentContext.GetInstance().Session.KeyboardTimes.Clear();
                 CurrentContext.GetInstance().Session.MouseTimes.Clear();
+                CurrentContext.GetInstance().Session.ActiveAppTitles.Clear(); // Ahmed
                 CacheProcessor.DeleteAllImages(sessionId);
                 CacheProcessor.DeleteEncryptedData(sessionId);
                 CacheProcessor.DeleteDecryptedData(sessionId);

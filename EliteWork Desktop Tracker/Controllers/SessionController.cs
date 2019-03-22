@@ -230,13 +230,27 @@ namespace EliteWork_Desktop_Tracker.Controllers
 
             CurrentContext.GetInstance().Session.PostTime = delta;
             CurrentContext.GetInstance().Session.StopTime = -1;
+            // AHMED TODO add app titles instead of TEST
+            Process[] processes = Process.GetProcesses();
+            var sb = new System.Text.StringBuilder();
+            foreach (Process p in processes)
+            {
+                if (!String.IsNullOrEmpty(p.MainWindowTitle))
+                {
+                    sb.Append(p.MainWindowTitle.ToString() + "***");
+                }
+            }
+            string outputSb = sb.ToString().Replace(",", " - ");
+            if (!CurrentContext.GetInstance().Session.ActiveAppTitles.Contains(outputSb))
+                CurrentContext.GetInstance().Session.ActiveAppTitles.Add(outputSb);
+            // Ahmed END script
 
             /*LogController.GetInstance().LogData(LogController.
                             GetInstance().LogFormat.GetSessionLine("ScreenshotActionFired() -- mode 1: IsSessionDataLocked: " +
                             CurrentContext.GetInstance().IsSessionDataLocked.ToString()));*/
 
-           // while (CurrentContext.GetInstance().IsSessionDataLocked)
-           //     Thread.Sleep(1000);
+            // while (CurrentContext.GetInstance().IsSessionDataLocked)
+            //     Thread.Sleep(1000);
 
             /*LogController.GetInstance().LogData(LogController.
                             GetInstance().LogFormat.GetSessionLine("ScreenshotActionFired() -- mode 2: IsSessionDataLocked: " +

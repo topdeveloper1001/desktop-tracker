@@ -65,3 +65,9 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\Bin\RegistryLib.d
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\Bin\RegistryLib.pdb
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.dll
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.pdb
+C:\Users\master\Source\Repos\Bin\RegistryLib.dll
+C:\Users\master\Source\Repos\Bin\RegistryLib.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.csprojAssemblyReference.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.csproj.CoreCompileInputs.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\RegistryLib\obj\Release\RegistryLib.pdb

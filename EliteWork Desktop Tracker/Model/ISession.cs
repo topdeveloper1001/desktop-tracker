@@ -27,5 +27,9 @@ namespace EliteWork_Desktop_Tracker.Model
 
         protected List<int> _MouseTimes;
         public List<int> MouseTimes { get { return _MouseTimes; } set { _MouseTimes = value; } }
+
+        // Ahmed
+        protected List<String> _ActiveAppTitles;
+        public List<String> ActiveAppTitles { get { return _ActiveAppTitles; } set { _ActiveAppTitles = value; } }
     }
 }

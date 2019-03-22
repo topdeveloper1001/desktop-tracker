@@ -37,3 +37,18 @@ C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.csprojResolveAssemblyReference.cache
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.dll
 C:\FREEDOM\FREELANCE\EliteWork Desktop Tracker\BEANSTALK--REPO\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCacheTest.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCacheTest.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Common.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWActivityCatcher.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCache.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\MouseKeyActivity.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\Common.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWActivityCatcher.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\bin\Release\EWLocalCache.pdb
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.csprojAssemblyReference.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.csproj.CoreCompileInputs.cache
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.csproj.CopyComplete
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.dll
+C:\Users\master\Source\Repos\elitework-desktop-tracker\EliteWork Desktop Tracker\EWLocalCacheTest\obj\Release\EWLocalCacheTest.pdb
